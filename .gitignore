@@ -1,0 +1,59 @@
+# IntelliJ IDEA specific files
+.idea
+.ideaworkspace.xml
+.ideatasks.xml
+.ideadictionaries
+.ideavcs.xml
+.ideajsLibraryMappings.xml
+.ideamisc.xml
+
+# IntelliJ IDEA run configurations
+.idearunConfigurations
+
+# IDE project specific files
+.iml
+.iws
+
+# Maven specific files
+target
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific files
+.gradle
+build
+
+# Other build system specific files
+out
+
+# Project specific files
+.class
+.log
+.war
+.ear
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+.log
+
+# Temporary files
+.tmp
+.temp
+.swp
+.swo
+.bak
+
+# IntelliJ IDEA code styles
+!.ideacodeStyles
+!.ideainspectionProfiles
+
+# Exclude IntelliJ IDEA module files unless specifically managed
+.iml
+modules.xml
